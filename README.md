@@ -8,3 +8,7 @@ InstaAuction, an application developed in iOS is essentially a guide to the ACV 
  The code for the custom model which detects the side of the car can be found in the file named -  ACV_CarSideDetection.ipynb
  
  The code for stablising the video and converting into the 360 degree imagery can be found in the file named - stab_360.py
+ 
+ 
+ <img src="https://github.com/avinashpatnaik/Insta-Auction-iOS-App/blob/main/AppMockUps.PNG" align="middle"/>
+
