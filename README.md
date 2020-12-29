@@ -3,7 +3,7 @@ InstaAuction, an application developed in iOS is essentially a guide to the ACV 
  
  The above can be seen in action at the following link https://www.youtube.com/watch?v=qdvD4307a94  
  
- All the technical documentation/research/findings can be found in the pdf named - Techincal Documentation.pdf 
+ All the technical documentation/research/findings can be found in the pdf named - Technical Documentation.pdf 
  
  The code for the custom model which detects the side of the car can be found in the file named -  ACV_CarSideDetection.ipynb
  
